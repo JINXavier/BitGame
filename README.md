@@ -1,2 +1,2 @@
-# KeuzedeelGameDev
-Game voor het keuzedeel Game Development
+# BitGame
+Game made for BitAcademy
